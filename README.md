@@ -9,6 +9,8 @@ make_overlay.C: The primary C++ macro containing the extraction, decoration, and
 root_inputs: This directory contains the sample .root files (DrellYan_20k_8TeV.root, ZZ_to_4L_20k_8TeV.root)
 to create an overlay plot
 
+output: This directory contains the output plots
+
 ## How to Run
 You can run this macro directly from your terminal inside the root 
 > [] .x make_overlay.C
